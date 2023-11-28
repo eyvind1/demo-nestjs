@@ -9,7 +9,7 @@ Install the latest version of node js
 $ npm install @nestjs/cli -g
 ```
 
-## Clone the project and install modules 
+## Clone the project and install the modules in the same directory
 ```bash
 $ npm install
 ```
