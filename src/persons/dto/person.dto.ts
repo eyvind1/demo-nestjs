@@ -4,3 +4,10 @@ export class CreatePersonDTO {
     role: string;
     age: number
 }
+
+export class UpdatePersonDTO {
+    name?: string;
+    address?: string;
+    role?: string;
+    age?: number
+}
